@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Power BI DAX project for analyzing the financial behavior of TechnoEdge's customers. The dataset includes customer information (name, age, gender), loan details (amount, status), and date-related information (month, quarter, fiscal year). The goal is to gain insights into customers, loans, and trends for informed decision-making and strategic planning.
 
-![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/DAX-PowerBI-Analyzing-Customer-Financial-Behavior/blob/22071b710140a0087aa120f100d20b1d2af31134/Dashboard.png)
+![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Complete-Power-BI-Projects/blob/632910c4ba95ff88b7d58de658e32c5c1be23dd5/DAX-PowerBI-Analyzing-Customer-Financial-Behavior/Dashboard.png)
 
 
 ## Project Objectives
