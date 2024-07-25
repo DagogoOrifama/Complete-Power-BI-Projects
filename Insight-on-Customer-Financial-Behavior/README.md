@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Power BI project for analyzing the financial behavior of TechnoEdge's customers. The dataset includes information such as customer ID, name, gender, age, country, state, job classification, marital status, account type, date joined, balance, and loans taken.
 
-![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Insight-on-Customer-Financial-Behavior/blob/2852ce070025530ba6ced54288ade0445473122b/Dashboard.png)
+![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Complete-Power-BI-Projects/blob/3124de1c310ed2a3caa963be408b2b91a3c3eb78/Insight-on-Customer-Financial-Behavior/Bank_report.png)
 
 ## Project Objectives
 1. **Age Distribution Analysis:** Analyze the age distribution of TechnoEdge banking customers and identify the most common age group.
