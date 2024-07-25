@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Power BI DAX project for analyzing the financial data of TechnoEdge. The project provides an interactive snapshot of finance data, including sales, profit, and transaction details. Visuals such as bar charts and tables display key metrics by segments, products, and countries, allowing for easy analysis and decision-making.
 
-![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Financial-Analysis-Using-DAX-in-PowerBI/blob/b2447fbfbe6c993ecc005c3696d1b34f1b9072ce/Financial_Report.png)
+![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Complete-Power-BI-Projects/blob/0187e77cd12a252db2728c7db0b4e3a5c5c7bf69/Financial-Analysis-Using-DAX-in-PowerBI/Financial_Report.png)
 
 ## Project Objectives
 1. **Sales Analysis:** Interactive report for sales performance by segment, country, product, and discount band with line charts and filters.
