@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Power BI DAX project for analyzing the sales data of TechnoEdge from 2022 to 2024. The dataset includes various tables such as Calendar, Customers, Product Categories, Product Sub-Categories, Products, Returns, Territories, and Sales. The goal is to gain insights and improve business operations by analyzing sales trends, customer behavior, product performance, and returns.
 
-![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/DAX-PowerBI-Sales-Analysis/blob/98f6006fe4137627799fcea0383c25f95e6bf3fc/Sales_report.png)
+![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Complete-Power-BI-Projects/blob/e74204b6db505d01bd6d2e9730a8555e02aaf7ad/DAX-PowerBI-Sales-Analysis/Sales_report.png)
 
 ## Project Objectives
 1. **Sales Data Analysis:** Analyze sales data for TechnoEdge across different regions, countries, and product categories.
