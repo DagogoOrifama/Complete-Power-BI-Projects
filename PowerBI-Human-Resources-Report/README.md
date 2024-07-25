@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Power BI project for analyzing the human resources data of TechnoEdge. The dataset includes information such as employee demographics, job positions, salaries, and performance ratings. The project aims to provide insights on employee retention, promotion patterns, and job satisfaction levels through interactive visualizations.
 
-![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/PowerBI-Human-Resources-Report/blob/aa963b49a18523bd532237278429b3f633aa728f/HR_Report.png)
+![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Complete-Power-BI-Projects/blob/c3b73392efb1982e410fbb6914afb7cb9290fd4c/PowerBI-Human-Resources-Report/HR_Report.png)
 
 
 ## Project Objectives
