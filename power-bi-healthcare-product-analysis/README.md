@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Power BI project for analyzing the healthcare product pricing data of TechnoEdge. The dataset includes information on product ID, vendor, brand name, unit price, dosage form, and manufacturer location, among other parameters.
 
-![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/power-bi-healthcare-product-analysis/blob/72647dc535f88238fd96ba413b2775e0a58d7fb5/Product_report.png)
+![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Complete-Power-BI-Projects/blob/fea149403c008b95f7d5e827d58e0f7ccdfcc0c4/power-bi-healthcare-product-analysis/Product_report.png)
 
 
 ## Project Objectives
