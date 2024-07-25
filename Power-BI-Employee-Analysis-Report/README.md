@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Power BI project for analyzing the employee details of TechnoEdge. The dataset includes information such as employee ID, name, position, salary, and attendance. This information is used to gain insights into the company's workforce, their performance, and overall productivity.
 
-![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Power-BI-Employee-Analysis-Report/blob/8c301d83182579c0dcaef26dd3c96b770403b029/Dashboard.png)
+![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Complete-Power-BI-Projects/blob/5c8bdaee47f98977a32215b74949a1b58bd8cc68/Power-BI-Employee-Analysis-Report/Dashboard.png)
 
 
 ## Project Objectives
