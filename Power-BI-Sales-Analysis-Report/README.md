@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Power BI project for analyzing sales data of TechnoEdge, a company dealing with diverse products. The project aims to provide insights into sales performance, customer behavior, and product performance across different regions and categories.
 
-![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Power-BI-Sales-Project/blob/bfa3caea2de9bd75f8534c5647162fe4b2af7d1c/Dashboard_summary.png)
+![TechnoEdge Sales Dashboard](https://github.com/DagogoOrifama/Complete-Power-BI-Projects/blob/5fcec892609bd22ae6a2afe063d5759dfe85bb52/Power-BI-Sales-Analysis-Report/Dashboard_summary.png)
 
 
 ## Project Objectives
